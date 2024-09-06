@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: akamaimizumi/nginx-demo:1.2
+        image: akamaimizumi/nginx-demo:1.1
         ports:
         - containerPort: 80
